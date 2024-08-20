@@ -3,5 +3,6 @@ const CustomButton = ({ onClick }) => {
       <button onClick={onClick}>Click me</button> 
     );
   };
+
   
   export default CustomButton;
